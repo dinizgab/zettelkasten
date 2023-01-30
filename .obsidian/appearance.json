@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "baseFontSize": 18
+  "accentColor": "#8660cd",
+  "baseFontSize": 18,
+  "cssTheme": "Atom"
 }

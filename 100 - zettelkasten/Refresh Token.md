@@ -4,11 +4,11 @@ Tags: [[ideas]]
 
 # Refresh Token
 
-Basicamente é uma maneira de revalidar o token JWT quando o token expirar ou se tornar inválido.
+Basicamente é uma maneira de revalidar o `access token` quando ele expirar ou se tornar inválido.
 
-O `refresh token` será criado no momento em que o usuário criar um novo token JWT (Login/Cadastro) e será enviado para ele como resposta do servidor juntamente com o token JWT, assim, o JWT ficará guardado no estado da aplicação e o `refresh token` em um cookie no cliente, diminuindo as chances de ataques (Cross-Site Scripting e Cross-Site Request Forgery), já uqe o JWT fica salvo na memória enquanto o `refresh token` fica salvo em um cookie.
+O `refresh token` será criado no momento em que o usuário criar um novo `access token` (Login/Cadastro) e será enviado para ele como resposta do servidor juntamente com o `access token` assim, o `access token` ficará guardado no estado da aplicação e o `refresh token` em um cookie no cliente, diminuindo as chances de ataques (Cross-Site Scripting e Cross-Site Request Forgery), já que o `access token` fica salvo na memória enquanto o `refresh token` fica salvo em um cookie.
 
-Essa revalidação é feita no momento em que o Token JWT perde a sua validade ou o usuário dá refresh na página e o token se perde (Meu problema), nesse momento será feita uma chamada para um endpoint específico no servidor com esse `refresh token`  e o servidor retornará um novo JWT válido para aquele usuário.
+Essa revalidação é feita no momento em que o Token `access token` perde a sua validade ou o usuário dá refresh na página e o token se perde (Meu problema), nesse momento será feita uma chamada para um endpoint específico no servidor com esse `refresh token`  e o servidor retornará um novo `access token` válido para aquele usuário.
 
 ![[Pasted image 20230127162447.png]]
 

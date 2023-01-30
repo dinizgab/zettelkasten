@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c0e38bf4328e6b",
+        "id": "b2952a8a7ae67e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad77c2ef734b8de4",
+            "id": "35430ade7dc6fa6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/Todos in Todo-It.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2781817d206d86b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/Todos in Todo-It.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - zettelkasten/Todos in Todo-It.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - zettelkasten/Todos in Todo-It.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 - zettelkasten/Todos in Todo-It.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,16 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2781817d206d86b9",
+  "active": "35430ade7dc6fa6b",
   "lastOpenFiles": [
-    "100 - zettelkasten/Refresh Token.md",
+    "100 - zettelkasten/Git.md",
+    "100 - zettelkasten/Woovi Challenge.md",
     "100 - zettelkasten/Todos in Todo-It.md",
-    "300 - templates/Atomic idea template.md",
     "100 - zettelkasten/Context API.md",
     "100 - zettelkasten/Vim.md",
+    "100 - zettelkasten/Refresh Token.md",
+    "100 - zettelkasten/Untitled.canvas",
+    "400 - files/Pasted image 20230127162447.png",
     "100 - zettelkasten/Criar landing page portfolio.md",
-    "100 - zettelkasten/ideia.md",
-    "100 - zettelkasten/ideia 2.md",
-    "300 - files/Untitled.md"
+    "300 - templates/Atomic idea template.md"
   ]
 }
