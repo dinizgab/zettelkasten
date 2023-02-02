@@ -15,5 +15,6 @@ Também tenho a vontade de me livrar o máximo possível do uso do mouse pra fac
 
 Talvez esse video:
 https://www.youtube.com/watch?v=zE0hno3vV9M
+https://learnvimscriptthehardway.stevelosh.com/
 
 

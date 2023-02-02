@@ -11,7 +11,7 @@
       "query": "path:\"100 - zettelkasten\"",
       "color": {
         "a": 1,
-        "rgb": 4705751
+        "rgb": 13354277
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.7528979569712365,
   "close": true
 }

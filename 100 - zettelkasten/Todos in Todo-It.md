@@ -1,15 +1,15 @@
 27-01-2023 - 15:50
-Status: #idea
-Tags: [[ideas]]
+Status: #projects 
+Tags: [[projects]]
 
 # Todos in Todo-It
 
 Coisas que eu ainda preciso fazer no projeto da TaskList com react (Irônico tá fazendo um todo fora da lista de tarefas):
-- Token JWT se perdendo no momento em que dá refresh na página;
-- Erro no toggle de todo, a rota não reconhece o token (Pode acontecer por conta do de cima);
-- Criação da relação da tabela de usuário e todos (Mostrar todos criados apenas pelo o usuário logado) => Provavelmente isso vai precisar de uma mudança nas rotas também;
-- Resposividade da tela de login e de registro;
-
+- [x] Token JWT se perdendo no momento em que dá refresh na página;
+- [x] Erro no toggle de todo, a rota não reconhece o token (Pode acontecer por conta do de cima);
+- [x] Criação da relação da tabela de usuário e todos (Mostrar todos criados apenas pelo o usuário logado) => Provavelmente isso vai precisar de uma mudança nas rotas também;
+- [x] Resposividade da tela de login e de registro;
+- [ ] Logout button;
 
 # Referências
 

@@ -9,6 +9,7 @@ Pensando seriamente em tentar o desafio da Woovi do Sibs, primeiro preciso ter i
 Ideias que eu pensei: 
 	- Clone do Instagram;
 	- Clone do Notion;
-	- Aplicativo de financas simples -- Pensando seriamente em ir nessa aqui;
+	- Aplicativo de finanças;
+	- App de mensagens;
 
 # Referências

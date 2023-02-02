@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "100 - zettelkasten",
-  "attachmentFolderPath": "400 - files"
+  "attachmentFolderPath": "400 - files",
+  "alwaysUpdateLinks": true
 }
