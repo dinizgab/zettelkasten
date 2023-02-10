@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "100 - zettelkasten",
   "attachmentFolderPath": "400 - files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

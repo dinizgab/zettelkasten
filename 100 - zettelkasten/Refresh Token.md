@@ -10,7 +10,7 @@ O `refresh token` será criado no momento em que o usuário criar um novo `acces
 
 Essa revalidação é feita no momento em que o Token `access token` perde a sua validade ou o usuário dá refresh na página e o token se perde (Meu problema), nesse momento será feita uma chamada para um endpoint específico no servidor com esse `refresh token`  e o servidor retornará um novo `access token` válido para aquele usuário.
 
-![[Pasted image 20230127162447.png]]
+![[refresh_token.png]]
 
 # Referências
 
