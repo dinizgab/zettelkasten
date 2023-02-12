@@ -24,10 +24,10 @@ export const NameContext = createContext<NameContextType>({
 
 No bloco de cima eu defini o tipo dos valores que estarão dentro do contexto em `NameContextType` e criei o contexto setando seus valores iniciais como o `name` sendo uma string vazia e `setName` sendo uma função que não faz nada por enquanto. (Esses valores serão sobrescritos quando criar o provider) 
 
-### Depois é preciso criar o Provider
+### Depois preciso criar o Provider
 ```tsx
 interface NameProviderProps {
-	children: ReactNode;
+	children: ReactNode; // Tags filhas do Provider
 }
 
 export function NameProvider({ children }: NameProviderProps) {

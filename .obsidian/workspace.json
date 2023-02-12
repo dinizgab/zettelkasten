@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - zettelkasten/Context API.md",
+                "file": "100 - zettelkasten/Comandos Vim.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "151d9f9c2474daf3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - zettelkasten/Context API.md",
+                "file": "100 - zettelkasten/Comandos Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - zettelkasten/Context API.md",
+                "file": "100 - zettelkasten/Comandos Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - zettelkasten/Context API.md"
+                "file": "100 - zettelkasten/Comandos Vim.md"
               }
             }
           }
@@ -149,15 +157,15 @@
   },
   "active": "283a72ed00b282a5",
   "lastOpenFiles": [
+    "100 - zettelkasten/Vim.md",
+    "100 - zettelkasten/Comandos Vim.md",
     "100 - zettelkasten/Context API.md",
-    "300 - templates/Projects roadmap.md",
     "100 - zettelkasten/Context Provider.md",
+    "300 - templates/Projects roadmap.md",
     "100 - zettelkasten/GraphQL.md",
     "100 - zettelkasten/Projeto Node com Typescript.md",
     "100 - zettelkasten/REST APIs.md",
     "100 - zettelkasten/Query.md",
-    "100 - zettelkasten/Mutation.md",
-    "100 - zettelkasten/Woovi Challenge.md",
-    "300 - templates/Atomic idea template.md"
+    "100 - zettelkasten/Mutation.md"
   ]
 }
