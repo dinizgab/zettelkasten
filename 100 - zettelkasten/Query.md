@@ -1,5 +1,5 @@
-Status: #concepts
-Tags: [[Concepts]] [[GraphQL]]
+Status: #ideas
+Tags:  [[GraphQL]]
 
 # Query
 

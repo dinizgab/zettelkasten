@@ -1,6 +1,6 @@
 27-01-2023 - 15:50
-Status: #projects 
-Tags: [[projects]]
+Status: #ideas 
+Tags: [[ideas]]
 
 # Todos in Todo-It
 
@@ -11,6 +11,7 @@ Coisas que eu ainda preciso fazer no projeto da TaskList com react (Irônico tá
 - [x] Resposividade da tela de login e de registro;
 - [ ] Logout button;
 
+---
 # Referências
 
 - Sobre [[Refresh Token|refresh token]]

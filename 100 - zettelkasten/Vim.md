@@ -15,8 +15,10 @@ Também tenho a vontade de me livrar o máximo possível do uso do mouse pra fac
 
 Vou linkar aqui tambem [[Comandos Vim|alguns comandos]] que eu aprendi que vai ser util de lembrar e revisar depois
 
+---
 # Referências
-
+Plugins para o vim:
+https://vimawesome.com/?q=cat%3Acode-display
 
 Talvez esse video:
 https://www.youtube.com/watch?v=zE0hno3vV9M

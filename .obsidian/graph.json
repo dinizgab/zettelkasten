@@ -13,18 +13,32 @@
         "a": 1,
         "rgb": 13354277
       }
+    },
+    {
+      "query": "path:\"Excalidraw\"",
+      "color": {
+        "a": 1,
+        "rgb": 1233843
+      }
+    },
+    {
+      "query": "path:\"300 - templates\"",
+      "color": {
+        "a": 1,
+        "rgb": 11083983
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.19739583333333,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2884187516294832,
-  "close": true
+  "scale": 0.900553996893931,
+  "close": false
 }

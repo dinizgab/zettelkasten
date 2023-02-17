@@ -9,14 +9,14 @@ Essa nota tem o objetivo de me lembrar como utilizar e inicializar um projeto no
 ## Projeto Node comum
 ``` bash
 npm init -y
-npm i typescript ts-node nodemon
+npm i typescript ts-node nodemon tsx
 npx tsc --init  // Iniciando o tsconfig.json
 ```
 
 ## Projeto GraphQL
 ```bash
 npm init -y
-npm i -D typescript ts-node nodemon // Instalando o Typescript
+npm i -D typescript ts-node nodemon tsx // Instalando o Typescript
 npm i type-graphql graphql apollo-server class-validator reflect-metadata // Instalando o GraphQL
 ```
 

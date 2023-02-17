@@ -1,5 +1,5 @@
-Status: #concepts
-Tags: [[Concepts]] [[GraphQL]] [[Query]]
+Status: #ideas
+Tags: [[GraphQL]] [[Query]]
 
 # Mutation
 
