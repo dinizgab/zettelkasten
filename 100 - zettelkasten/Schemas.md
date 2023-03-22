@@ -60,3 +60,6 @@ export const Posts = mongoose.model("Posts", PostSchema);
 
 Doc oficial mongoose:
 https://mongoosejs.com/docs/4.x/docs/guide.html
+
+Video do cara que parece um boneco ensinando:
+https://www.youtube.com/watch?v=DZBGEVgL2eE

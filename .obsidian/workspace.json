@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "58401d5e6dc0e8ff",
+        "id": "a057263e5e5abfb5",
         "type": "tabs",
         "children": [
           {
-            "id": "283a72ed00b282a5",
+            "id": "56bd0742d4b41c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - zettelkasten/Planning Center.md",
+                "file": "100 - zettelkasten/PSOFT - Projeto.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d384f8c93afca7be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/Schemas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "167677efd72fa8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e347bdd366fe2efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/Planning Center Todos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd49265168e6bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - zettelkasten/Planning Center Todos.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#toughts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - zettelkasten/Schemas.md",
+                "file": "100 - zettelkasten/PSOFT - Projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - zettelkasten/Schemas.md",
+                "file": "100 - zettelkasten/PSOFT - Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - zettelkasten/Schemas.md"
+                "file": "100 - zettelkasten/PSOFT - Projeto.md"
               }
             }
           }
@@ -196,17 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d384f8c93afca7be",
+  "active": "56bd0742d4b41c9f",
   "lastOpenFiles": [
-    "100 - zettelkasten/Planning Center.md",
-    "100 - zettelkasten/Schemas.md",
-    "100 - zettelkasten/MongoDB.md",
+    "100 - zettelkasten/Tracepoints Linux.md",
+    "100 - zettelkasten/Testes de software.md",
+    "100 - zettelkasten/PSOFT - Projeto.md",
+    "100 - zettelkasten/REST APIs.md",
     "100 - zettelkasten/Planning Center Todos.md",
-    "100 - zettelkasten/Projeto Node com Typescript.md",
-    "100 - zettelkasten/Untitled.canvas",
-    "100 - zettelkasten/Woovi Challenge.md",
+    "100 - zettelkasten/Branches.md",
+    "300 - templates/Tought template.md",
+    "200 - some toughts/Para Evellyn.md",
+    "200 - some toughts/Real demais para não crer.md",
+    "200 - some toughts/Untitled.md",
+    "300 - templates/Atomic idea template.md",
+    "100 - zettelkasten/Dynamic forms with React.md",
+    "200 - some toughts",
+    "100 - zettelkasten/Context Provider.md",
+    "100 - zettelkasten/Context API.md",
     "100 - zettelkasten/Todos in Todo-It.md",
-    "Excalidraw/planning_center_model.md",
-    "300 - templates/Atomic idea template.md"
+    "100 - zettelkasten/Query.md",
+    "100 - zettelkasten/Mutation.md",
+    "400 - files/context_api.png",
+    "Excalidraw/context_api.md",
+    "100 - zettelkasten/MongoDB.md"
   ]
 }

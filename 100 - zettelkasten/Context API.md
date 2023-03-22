@@ -6,7 +6,6 @@ Tags: [[ideas]]
 
 O contexto no React é uma maneira de mantar um estado universal na sua aplicação, assim, a gente não precisa ficar passando um estado que surgiu em um componente muito antigo de filho em filho até chegar no componente que a gente quer.
 
-- Nome
 ![[context_api|800|center]] 
 
 **No primeiro caso, tem um exemplo de uma aplicação que não tá usando o contexto e no segundo caso uma que tá usando.**

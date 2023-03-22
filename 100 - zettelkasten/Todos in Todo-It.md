@@ -1,5 +1,5 @@
 27-01-2023 - 15:50
-Status: #ideas 
+Status: #idea
 Tags: [[ideas]]
 
 # Todos in Todo-It

@@ -1,4 +1,4 @@
-Status: #ideas
+Status: #idea
 Tags: [[GraphQL]] [[Query]]
 
 # Mutation

@@ -11,12 +11,17 @@ Aqui nessa nota eu vou adicionando os todos que precisam ser feitos no Projeto d
 
 ## Backend
 - [x] Modelar o basico dos objetos;
-- [ ] Rota para criar um culto;
+- [x] Rota para criar um culto;
 - [ ] Rota para criar uma tarefa em um culto específico;
-- [ ] Rota de criação de usuário;
-- [ ] Rota de criação de departamento;
-- [ ] Rota de cadastro de usuário em um departamento;
-- [ ] Rota de escalar um usuário em um culto;
+- [x] Rota de criação de usuário;
+- [x] Rota de criação de departamento;
+- [x] Rota de cadastro de usuário em um departamento;
+- [x] Rota de escalar um usuário em um culto;
+- [x] Listagem de departamentos
+- [x] Listagem de um departamento especifico
+- [x] Listagem de eventos
+- [x] Listagem de um evento especifico
+- [ ] Correcao das replies do aplicativo
 
 ---
 # Referências

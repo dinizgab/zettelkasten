@@ -1,17 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"100 - zettelkasten\"",
       "color": {
         "a": 1,
-        "rgb": 13354277
+        "rgb": 14340880
       }
     },
     {
@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 11083983
       }
+    },
+    {
+      "query": "path:\"200 - some toughts\"",
+      "color": {
+        "a": 1,
+        "rgb": 906030
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.19739583333333,
-  "lineSizeMultiplier": 1.19739583333333,
-  "collapse-forces": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1.22291666666667,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.900553996893931,
-  "close": false
+  "scale": 0.7528979569712344,
+  "close": true
 }
