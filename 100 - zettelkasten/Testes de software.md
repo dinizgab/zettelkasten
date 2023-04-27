@@ -1,6 +1,6 @@
 22-03-2023 - 10:48
 Status: #idea
-Tags: [[ideas]]
+Tags: [[ideas]] [[Abordagem de testes]] [[TDD]]
 
 # Testes de software
 
@@ -23,9 +23,7 @@ public int somadorStub() {
 ```
 - Um exemplo de um **Stub** no snippet de cima, o segundo método só simula o resultado da soma do primeiro método;
 
-
 **Mock** = Presets de informações e dados, servem para definir expectativas do que precisamos e para os testes que estamos fazendo (Ex.: retorno de um json);
-
 
 ---
 # Referências
